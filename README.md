@@ -1,2 +1,11 @@
-# portfolio
-한번 같이 일해보고 싶다는 느낌을 주도록 포트폴리오를 구성할려고 노력했습니다.
+# portfolio  
+## 기획 포인트  
+이분 얼굴 보고 싶다라고 느낄정도의 기술력이 보이도록 구성
+- Canvas Image Split
+- Khanban Move
+- SVG Linking 
+- Pagination
+
+## 디자인  
+https://www.figma.com/file/xH0PXeJ2K0Za5AmUa6qgro/Untitled?node-id=0%3A1  
+3. 구현  
