@@ -1,0 +1,40 @@
+.main {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  #canvas {
+    position: absolute;
+    background: yellow;
+    width: 50%;
+    width: 300px;
+    height: 300px;
+    z-index: -1;
+  }
+  .circleWrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: black;
+    // width: 50%;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    .textWrap {
+      position: relative;
+      .title {
+        color: white;
+      }
+      .subTitle {
+        color: #676767;
+      }
+    }
+  }
+  .circleWrap::before {
+    content: "";
+    float: left;
+    padding-top: 100%;
+  }
+}

@@ -15,8 +15,13 @@ https://www.figma.com/file/xH0PXeJ2K0Za5AmUa6qgro/Untitled?node-id=0%3A1
 
 ## 구현
 
-## Extension
+## 꿀팁
 
-emmet suport scss module
+[Extension]
+
+- emmet suport scss module
 
 > CSS Modules Transform
+
+- scss peek
+  > SCSS Everywhere
